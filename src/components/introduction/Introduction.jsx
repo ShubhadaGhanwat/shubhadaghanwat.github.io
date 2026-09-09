@@ -63,7 +63,7 @@ const Introduction = () => {
       >
         <img
           className={`shadow-2xl shadow-gray-200 w-full h-full absolute bottom-0 object-cover bg-white rounded-3xl`}
-          src={shubhada}
+          src={person}
           alt="Shubhada Ghanwat"
         />
       </div>
