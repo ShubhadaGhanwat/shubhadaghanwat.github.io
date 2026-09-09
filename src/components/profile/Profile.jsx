@@ -18,7 +18,7 @@ const Profile = () => {
           <div className="max-w-106 h-117 overflow-hidden rounded-xl">
             <img
               className="bg-soft-white w-full h-full object-cover"
-              src={person}
+              src={shubhada}
               alt="Shubhada Ghanwat - WordPress Developer"
             />
           </div>
