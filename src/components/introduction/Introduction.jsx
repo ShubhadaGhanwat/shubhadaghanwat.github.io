@@ -36,10 +36,10 @@ const Introduction = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
-            I'm a Freelance <span className="bg-highlight">UI/UX Designer</span>{" "}
-            and <span className="bg-highlight"> Developer</span> based in
-            London, England. I strives to build immersive and beautiful web
-            applications through carefully crafted code and user-centric design.
+            I'm a WordPress Developer based in Pune, India, with 4+ years of experience turning ideas into responsive, 
+            high-performing websites. I combine clean development, creative design, and user-focused thinking to build web experiences that 
+            are both visually engaging and functional.
+
           </p>
           <p className="text-center lg:text-start">
             <a
